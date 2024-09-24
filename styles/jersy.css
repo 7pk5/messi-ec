@@ -13,7 +13,7 @@ html, body {
 }
 @font-face {
     font-family: 'font';
-    src: url('/argentina/assets/AdiCupQ2022.woff');
+    src: url(/messi-ec/assets/AdiCupQ2022.woff);
 }
 .argentina-text{
     font-family: 'font';
@@ -120,7 +120,7 @@ a{
     background-color:#3099da;
 }
 .main{
-    background-image:url(/argentina/assets/adidas-banner.avif);
+    background-image:url(/messi-ec/assets/adidas-banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -287,7 +287,7 @@ a{
 .main3-right{
     width: 60%;
     height: 400px;
-    background-image:url(/argentina/assets/bg-1.jpg) ;
+    background-image:url(/messi-ec/assets/bg-1.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
