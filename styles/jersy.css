@@ -11,6 +11,7 @@ html, body {
 :root{
     --maring-left:78px;
 }
+/* Header Css Start */
 @font-face {
     font-family: 'font';
     src: url(/messi-ec/assets/AdiCupQ2022.woff);
@@ -119,6 +120,7 @@ a{
     color: white;
     background-color:#3099da;
 }
+/* Header Css Ends */
 .main{
     background-image:url(/messi-ec/assets/adidas-banner.png);
     background-repeat: no-repeat;
