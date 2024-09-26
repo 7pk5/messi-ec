@@ -112,3 +112,58 @@ a{
     background-color:#3099da;
 }
 /* Header css End */
+
+
+/* Main-Section Css */
+.main{
+    background-image: url(/messi-ec/assets/messi_shoes_page.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 610px;    
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.adidas{
+    font-family: 'font';
+    font-size: 45px;
+    color: #000000;
+    font-weight: normal;
+}
+.main-content{
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+    width: 30%;
+    height: 68%;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.443); /* Transparent white background */
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.539); /* Soft shadow */
+    backdrop-filter: blur(5px); /* Frosted glass blur effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Light border */
+    color: white;
+    padding: 40px;
+    margin-left: 90px;    
+}
+.main-content p{
+    font-size: 20px;
+    color: #000000;
+} 
+
+.main-content button{
+    padding: 10px 20px;
+    margin-top: 18px;
+    background-color: transparent;
+    font-size: 17px;
+}
+
+.main-content button:hover{
+    font-weight: 700;
+    color: black;
+    background-color: #fff;
+}
+/* Main Section Css Ends */
