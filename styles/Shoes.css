@@ -8,7 +8,7 @@ html, body {
     width: 100%;
     height: 100%;
 }
-/* Header Css Start */
+
 @font-face {
     font-family: 'font';
     src: url(/messi-ec/assets/AdiCupQ2022.woff);
@@ -111,10 +111,7 @@ a{
     color: white;
     background-color:#3099da;
 }
-/* Header css End */
 
-
-/* Main-Section Css */
 .main{
     background-image: url(/messi-ec/assets/messi_shoes_page.jpg);
     background-size: cover;
@@ -166,9 +163,6 @@ a{
     color: black;
     background-color: #fff;
 }
-/* Main Section Css Ends */
-
-/* Cards Css */
 
 .scroll-container{
     overflow-x: auto;
@@ -242,9 +236,7 @@ a{
 .para{
     font-weight: 700;
 }
-/* Cards css Ends */
 
-/* footer */
 .foot{
     display: flex;
     justify-content: space-around;
@@ -259,4 +251,3 @@ a{
     font-size: xx-large;
     
 }
-/* footer ends */
