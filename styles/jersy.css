@@ -120,6 +120,8 @@ a{
     background-color:#3099da;
 }
 /* Header Css Ends */
+
+/* Main Section */
 .main{
     background-image:url(/messi-ec/assets/adidas-banner.png);
     background-repeat: no-repeat;
@@ -156,6 +158,8 @@ a{
     font-weight: 600;
 
 }
+/* Main Section Ends */
+
 .scroll-container{
     overflow-x: auto;
     white-space: nowrap;
