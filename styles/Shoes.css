@@ -237,6 +237,52 @@ a{
     font-weight: 700;
 }
 
+.ai-bar{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(to bottom, white 50%,rgba(206, 206, 206, 0.269) 50%);
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+.img2{
+    width:  300px;
+    height: auto;
+}
+.img1{
+    width:  250px;
+    height: 300px;
+}
+.inner-div{
+    margin-top: 140px;
+}
+.inner-div h1{
+    font-family: 'font';
+    font-weight: normal;
+    color: #3099da;
+    font-size: 30px;
+}
+.btn-grp{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+.btn-grp button{
+    padding: 8px 20px;
+    border:1px solid black;
+    background-color: #fff;
+    font-size: 15px;
+}
+.btn-grp button:hover{
+    font-weight: 700;
+}
+
+
 .foot{
     display: flex;
     justify-content: space-around;
